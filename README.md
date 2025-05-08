@@ -8,12 +8,9 @@ I'm now into TypeScript and Rust (maybe tomorrow you can find me fall in love an
 
 ## Some Useful Links (Maybe Not Useful)
 
-- [Bilibili @AjunieZeng](https://space.bilibili.com/108010613)
 - [Bluesky @ajunie.com](https://bsky.app/profile/ajunie.com)
-- [X (Twitter) @AjunieZeng](https://x.com/AjunieZeng)
 - [Steam @Ajunie](https://steamcommunity.com/profiles/76561198819216883/)
 - [Apple Music @ajuniezeng](https://music.apple.com/profile/ajuniezeng)
-- [Spotify @AjunieZeng](https://open.spotify.com/user/31viqqbtrmgnrtltfqiumvxvbxam) I don't often use Spotify tho
 - [Last.fm @AjunieZeng](https://www.last.fm/user/AjunieZeng)
 - <contact@ajunie.com>
 
